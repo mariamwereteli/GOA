@@ -1,0 +1,27 @@
+h1 {
+font-family: cursive;
+font-size: 75px;
+text-align: center;
+color: #870f11;
+}
+
+p {
+font-family: fantasy;
+font-size: 20px;
+text-align: center;
+color: #870f11;
+}
+
+body {
+    background-color: #3d783a;
+    
+}
+
+img {
+    width: 400px;
+    height: 280px;
+    border: 10px;
+    border-style: dotted;
+    border-color: white;
+
+}
