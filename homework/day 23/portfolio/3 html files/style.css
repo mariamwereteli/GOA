@@ -1,0 +1,18 @@
+body {
+    background-color: palegoldenrod;
+}
+
+h1 {
+    font-family: cursive;
+    text-align: center;
+    color: palevioletred;
+    font-size: 100px;
+}
+
+a {
+ font-family:  cursive;
+ color: palevioletred;
+ text-decoration: none;
+ font-size: 80px;
+
+}

@@ -1,0 +1,27 @@
+body {
+    background-color: palegoldenrod;
+
+}
+
+
+h1 {
+    text-align: center;
+    color: palevioletred;
+    font-family: fantasy;
+    font-size: 100px;
+}
+
+
+p {
+    font-family: cursive;
+    color: palevioletred;
+    font-size: 30px;
+
+}
+
+a {
+    text-decoration: none;
+    font-family: cursive;
+    color: palevioletred;
+    font-size: 40px;
+}
