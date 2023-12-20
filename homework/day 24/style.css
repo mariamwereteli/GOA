@@ -1,0 +1,14 @@
+h1 {
+    font-family: fantasy;
+    font-size: 100px;
+    color: rgb(22, 105, 15);
+    text-align: center;
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+}
+img {
+    height: 800px;
+    width: 900px;
+}
