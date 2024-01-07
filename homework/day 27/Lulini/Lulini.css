@@ -1,0 +1,38 @@
+h1 {
+    font-family: fantasy;
+    font-size: 90px;
+    color: rgb(33, 189, 33);
+    text-align: center;
+}
+
+h2 {
+    font-family: fantasy;
+    color:rgb(0, 89, 255);
+    text-align: center;
+}
+p {
+    color: rgb(0, 89, 255);
+    font-family: cursive;
+    text-align: center;
+}
+
+img {
+    margin-left: 35%;
+    margin-right: 30%;
+    width: 350px;
+    height: 330px;
+}
+header{
+    background-color: rgb(127, 187, 255);
+}
+
+a {
+    text-decoration: none;
+    margin-right: 58%;
+    margin-left: 42%;
+    font-family: fantasy;
+    color: rgb(33, 189, 33);
+    font-size: 50px;
+}
+
+

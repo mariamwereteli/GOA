@@ -1,0 +1,29 @@
+body {
+background-color: rgb(201, 1, 1);
+}
+
+h1 {
+    font-family: 'Mountains of Christmas', serif;
+    text-align: center;
+    color: white;
+    text-align: center;
+
+}
+
+p {
+    font-family: 'Love Light', cursive;
+font-family: 'Mountains of Christmas', serif;
+color: white;
+text-align: center;
+}
+
+
+img {
+height: 150px;
+width: 250px;
+margin-left: 40%;
+margin-right: 50%;
+padding: 20px;
+border: dotted;
+border-radius: 35%;
+}
