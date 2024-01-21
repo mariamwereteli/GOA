@@ -1,0 +1,30 @@
+.title  {
+    display: flex;
+    justify-content:space-between;
+}
+
+img {
+    display: flex;
+    justify-content: left;
+    border-radius: 50%;
+    width: 180px;
+    height: 150px;
+    border: 2px;
+    border-color: lime;
+    
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.button {
+    display: flex;
+    justify-content: space-between;
+}
+
+header {
+    background-color: black;
+}
