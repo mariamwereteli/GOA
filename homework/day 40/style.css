@@ -1,0 +1,36 @@
+.techvio {
+    display: flex;
+    justify-content:space-between;
+}
+
+.techvio:last-child {
+    margin-right: auto;
+}
+
+body {
+    background-color: rgb(59, 59, 124);
+    
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+}
+
+h2 {
+    color: white;
+    font-size: 30px;
+}
+
+p {
+    color: white;
+    font-size: 20px;
+}
+
+
+button {
+border-radius: 10%;
+border-color: white;
+background-color: rgb(94, 94, 182);
+color: white;
+}
