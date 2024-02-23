@@ -1,0 +1,14 @@
+button {
+    background-color: black;
+    width: 300px;
+    height: 300px;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+}
+
+div {
+    transform: scale(1.5);
+}
