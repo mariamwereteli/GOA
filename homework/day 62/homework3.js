@@ -1,0 +1,7 @@
+document.getElementById('welcomeForm').addEventListener('submit', function(event) {
+    event.preventDefault();
+    
+    let firstName = document.getElementById('firstName').value;
+    let lastName = document.getElementById('lastName').value;
+    alert(`Welcome ${firstName} ${lastName}!`);
+});
